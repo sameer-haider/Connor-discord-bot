@@ -1,0 +1,24 @@
+{
+  "name": "connor-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot based around the character Connor from the video game Detroit: Becomes Human",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-haider/Connor-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-haider/Connor-discord-bot/issues"
+  },
+  "homepage": "https://github.com/sameer-haider/Connor-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  }
+}
